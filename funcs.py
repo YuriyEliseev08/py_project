@@ -8,3 +8,8 @@ def sum(a, b):
 
 
 print(sum(a, b))
+
+def sub(a,b):
+    c = a - b
+    return c
+print(sub(a, b))
